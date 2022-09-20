@@ -1,0 +1,5 @@
+1. Write a Python Program to Check if a Number is Positive, Negative or Zero?
+2. Write a Python Program to Check if a Number is Odd or Even?
+3. Write a Python Program to Check Leap Year?
+4. Write a Python Program to Check Prime Number?
+5. Write a Python Program to Print all Prime Numbers in an Interval of 1-10000?
