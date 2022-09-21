@@ -1,0 +1,6 @@
+1. Write a Python Program to Find the Factorial of a Number?
+2. Write a Python Program to Display the multiplication Table?
+3. Write a Python Program to Print the Fibonacci sequence?
+4. Write a Python Program to Check Armstrong Number?
+5. Write a Python Program to Find Armstrong Number in an Interval?
+6. Write a Python Program to Find the Sum of Natural Numbers?
